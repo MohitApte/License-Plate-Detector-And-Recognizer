@@ -1,0 +1,9 @@
+Download CheckPoints folder from given link and extract it here:
+
+https://drive.google.com/file/d/1gqkKTJxa2UK7e0C14v50ZoTSeTl-NAtV/view?usp=sharing
+
+Also download Cuson Weights from the given link:
+
+https://drive.google.com/file/d/1VwUYIKS4VNfvIsZR1B7iYakzzjChKmPH/view?usp=sharing
+
+and extract it in the data folder
